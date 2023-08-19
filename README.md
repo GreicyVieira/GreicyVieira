@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Olá! Sou a Greiciele Cristina, Greicy para os íntimos...
+Olá! Meu nome é Greiciele Cristina, Greicy para os íntimos...
 Uma pessoa apaixonada por explorar o mundo da tecnologia e apaixonada pela vida. Com 33 anos de idade e morando na vibrante cidade de Caldas Novas, Goiás, encontrei meu caminho na área de Desenvolvimento de Software, com foco em Back-end. Minha jornada começou com uma formação em Gestão em Recursos Humanos, mas meu desejo incessante por desafios me levou a mergulhar de cabeça no mundo da programação.
 
 ## Quem Sou
