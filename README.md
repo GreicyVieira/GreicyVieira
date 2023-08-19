@@ -12,6 +12,13 @@ Minha paixão por aprender me levou a expandir meus horizontes para além das fr
 ## Uma Busca Constante
 
 Atualmente, estou embarcando em uma jornada empolgante de estudos no mundo da programação. Com foco em Desenvolvimento Back-end, tenho me aprofundado em tecnologias como Javascript, Node.js e SQL. Minha jornada de aprendizado também inclui o uso do Git para um controle eficiente de versão. A busca pelo conhecimento é minha bússola, e estou animada para as oportunidades que essa jornada me reserva.
+<div>
+<img  align="center" alt="Js" src="./imagens/png-javascript-badge-picture-8.png" alt="Descrição da Imagem" width="40" height="30">
+<img align="center" alt="NodeJs" src="./imagens/logo-node-js-1024.png" alt="Descrição da Imagem" width="40" height="30">
+<img align="center" alt="Git" src="./imagens/1color-lightbg@2x.png" alt="Descrição da Imagem" width="40" height="30">
+<img align="center" alt="Sql" src="./imagens/ícone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841969.webp" alt="Descrição da Imagem" width="40" height="30">
+<img align="center" alt="HTML"src="./imagens/html-5_318-698168.avif" alt="Descrição da Imagem" width="40" height="30">
+</div>
 
 ## Uma Vida com Propósito
 
@@ -29,11 +36,8 @@ A estabilidade financeira é um dos meus objetivos, mas também aspiro a alcanç
 
 Se você está interessado em compartilhar conhecimentos, explorar oportunidades de colaboração ou simplesmente trocar histórias, estou sempre aberta a novas conexões. Vamos juntos construir um mundo mais interconectado e cheio de possibilidades.
 
-<img src="./imagens/png-javascript-badge-picture-8.png" alt="Descrição da Imagem" width="40" height="30">
-<img src="./imagens/logo-node-js-1024.png" alt="Descrição da Imagem" width="40" height="30">
-<img src="./imagens/1color-lightbg@2x.png" alt="Descrição da Imagem" width="40" height="30">
-<img src="./imagens/ícone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841969.webp" alt="Descrição da Imagem" width="40" height="30">
-<img src="./imagens/html-5_318-698168.avif" alt="Descrição da Imagem" width="40" height="30">
+
+
 
 GitHub: www.github.com/GreicyVieira
 
