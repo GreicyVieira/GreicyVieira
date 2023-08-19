@@ -14,31 +14,7 @@ Minha paixão por aprender me levou a expandir meus horizontes para além das fr
 
 Atualmente, estou embarcando em uma jornada empolgante de estudos no mundo da programação. Com foco em Desenvolvimento Back-end, tenho me aprofundado em tecnologias como Javascript, Node.js e SQL. Minha jornada de aprendizado também inclui o uso do Git para um controle eficiente de versão. A busca pelo conhecimento é minha bússola, e estou animada para as oportunidades que essa jornada me reserva.
 
-<div>
-<picture>
-<source
-  srcset="https://github-readme-stats-zeta-weld.vercel.app/api?username=GreicyVieira&show_icons=true&theme=highcontrast"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-weld.vercel.app/api?username=GreicyVieira&show_icons=true&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img  height="180em" src="https://github-readme-stats-zeta-weld.vercel.app/api?username=GreicyVieira&show_icons=true" />
-</picture>
 
-<picture>
-<source
-  srcset="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=GreicyVieira&layout=compact&langs_count=6&theme=highcontrast"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=GreicyVieira&layout=compact&langs_count=6&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img  height="180em" src="https://github-readme-stats-zeta-weld.vercel.app/api/top-langs/?username=GreicyVieira&layout=compact&langs_count=6" />
-</picture>
-</div>
 <div>
 <img  align="center" alt="Js" src="./imagens/png-javascript-badge-picture-8.png" alt="Descrição da Imagem" width="40" height="30">
 <img align="center" alt="NodeJs" src="./imagens/logo-node-js-1024.png" alt="Descrição da Imagem" width="40" height="30">
