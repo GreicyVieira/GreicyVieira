@@ -29,11 +29,11 @@ A estabilidade financeira é um dos meus objetivos, mas também aspiro a alcanç
 
 Se você está interessado em compartilhar conhecimentos, explorar oportunidades de colaboração ou simplesmente trocar histórias, estou sempre aberta a novas conexões. Vamos juntos construir um mundo mais interconectado e cheio de possibilidades.
 
-<img src="./imagens/png-javascript-badge-picture-8.png" alt="Descrição da Imagem" width="300" height="200">
-<img src="./imagens/logo-node-js-1024.png" alt="Descrição da Imagem" width="300" height="200">
-<img src="./imagens/1color-lightbg@2x.png" alt="Descrição da Imagem" width="300" height="200">
-<img src="./imagens/ícone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841969.webp" alt="Descrição da Imagem" width="300" height="200">
-<img src="./imagens/html-5_318-698168.avif" alt="Descrição da Imagem" width="300" height="200">
+<img src="./imagens/png-javascript-badge-picture-8.png" alt="Descrição da Imagem" width="40" height="30">
+<img src="./imagens/logo-node-js-1024.png" alt="Descrição da Imagem" width="40" height="30">
+<img src="./imagens/1color-lightbg@2x.png" alt="Descrição da Imagem" width="40" height="30">
+<img src="./imagens/ícone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841969.webp" alt="Descrição da Imagem" width="40" height="30">
+<img src="./imagens/html-5_318-698168.avif" alt="Descrição da Imagem" width="40" height="30">
 
 GitHub: www.github.com/GreicyVieira
 
